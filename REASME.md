@@ -1,7 +1,7 @@
 Hi 👋 My name is 375
 ====================
 
-All The Algorithm and Data Structure
+Placement and Job Interview Algorithm and Data Structure
 ------------------------------------
 
 for placement and for knowledge
