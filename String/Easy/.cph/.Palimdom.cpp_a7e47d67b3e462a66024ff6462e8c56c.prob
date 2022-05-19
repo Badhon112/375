@@ -1,0 +1,1 @@
+{"name":"Local: Palimdom","url":"f:\\Dsa\\String\\Easy\\Palimdom.cpp","tests":[{"id":1652948247558,"input":"A man, a plan, a canal: Panama","output":""},{"id":1652948456708,"input":"race a car","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Dsa\\String\\Easy\\Palimdom.cpp","group":"local","local":true}
