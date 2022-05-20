@@ -1,0 +1,1 @@
+{"name":"Local: ValidArgument","url":"k:\\375\\String\\Easy\\ValidArgument.cpp","tests":[{"id":1653014176035,"input":"anagram\nnagaram","output":""},{"id":1653014197058,"input":"rat\ncar","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\String\\Easy\\ValidArgument.cpp","group":"local","local":true}

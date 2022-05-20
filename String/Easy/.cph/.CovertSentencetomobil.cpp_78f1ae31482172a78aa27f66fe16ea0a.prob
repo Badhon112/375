@@ -1,0 +1,1 @@
+{"name":"Local: CovertSentencetomobil","url":"k:\\375\\String\\Easy\\CovertSentencetomobil.cpp","tests":[{"id":1653018603346,"input":"GEEKSFORGEEKS","output":""},{"id":1653018613452,"input":"HELLO WORLD","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\String\\Easy\\CovertSentencetomobil.cpp","group":"local","local":true}

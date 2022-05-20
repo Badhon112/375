@@ -1,0 +1,1 @@
+{"name":"Local: Valid_Parentheses","url":"k:\\375\\String\\Easy\\Valid_Parentheses.cpp","tests":[{"id":1653015847456,"input":"()","output":""},{"id":1653015848187,"input":"()[]{}","output":""},{"id":1653015848818,"input":"(]","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\String\\Easy\\Valid_Parentheses.cpp","group":"local","local":true}

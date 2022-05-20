@@ -1,0 +1,1 @@
+{"name":"Local: RemoveConsecutiveCharacters","url":"k:\\375\\String\\Easy\\RemoveConsecutiveCharacters.cpp","tests":[{"id":1653019021173,"input":"aabb","output":""},{"id":1653019031492,"input":"aabaa","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\String\\Easy\\RemoveConsecutiveCharacters.cpp","group":"local","local":true}
