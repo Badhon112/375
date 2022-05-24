@@ -14,7 +14,7 @@ int main()
     }
     int Max_value=INT_MIN;
     for(int i=0;i<Array.size();i++){
-        Max_value=max(Max_value,Array[i]);
+        // Max_value=max(Max_value,Array[i]);
     }
     cout<<Max_value<<endl;
 
