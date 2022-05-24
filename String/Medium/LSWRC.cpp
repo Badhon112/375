@@ -5,17 +5,25 @@ int main()
     string S, Ans;
     getline(cin, S);
     int n = S.size();
-    // stack<string> Array;
-    vector<char> Array(256, -1);
-    int maxlen = 0, start = -1;
-    for (int i = 0; i < n; i++)
-    {
-        if (Array[S[i]] > start)
-        {
-            start = Array[S[i]];
+    int result = 0,start=0,end=0;
+    set<char> Set;
+    while (start<n){
+        auto it=Set.find(S[start]);
+        if(it==Set.end()){
+            if(start-end+1>result){
+                result=start-end+1;
+            }
+            Set.insert(S[start]);
+            start++;
         }
-        Array[S[i]] = i;
-        maxlen = max(maxlen, i - start);
+        else{
+            Set.erase(S[end]);
+            end++;
+        }
     }
-    cout << maxlen << endl;
+    {
+        /* code */
+    }
+    
+    cout<<result<<endl;
 }
