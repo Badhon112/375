@@ -1,0 +1,1 @@
+{"name":"Local: PalindromicSubstrings","url":"k:\\375\\String\\Medium\\PalindromicSubstrings.cpp","tests":[{"id":1653537592555,"input":"aaa","output":""},{"id":1653537872123,"input":"abc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\String\\Medium\\PalindromicSubstrings.cpp","group":"local","local":true}
