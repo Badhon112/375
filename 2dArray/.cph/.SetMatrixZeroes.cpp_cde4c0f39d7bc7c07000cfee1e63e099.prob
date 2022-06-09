@@ -1,0 +1,1 @@
+{"name":"Local: SetMatrixZeroes","url":"k:\\375\\2dArray\\SetMatrixZeroes.cpp","tests":[{"id":1654739865549,"input":"3 3\n1 1 1\n1 0 1\n1 2 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\2dArray\\SetMatrixZeroes.cpp","group":"local","local":true}
