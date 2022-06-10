@@ -1,0 +1,1 @@
+{"name":"Local: Land","url":"k:\\375\\2dArray\\Land.cpp","tests":[{"id":1654851871236,"input":"3 3\n0 0 0 \n0 1 0 \n1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\2dArray\\Land.cpp","group":"local","local":true}
