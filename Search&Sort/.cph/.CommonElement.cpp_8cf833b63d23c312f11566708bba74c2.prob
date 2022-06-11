@@ -1,0 +1,1 @@
+{"name":"Local: CommonElement","url":"k:\\375\\Search&Sort\\CommonElement.cpp","tests":[{"id":1654967382319,"input":"3 5 4\n1 5 5 \n3 4 5 5 10\n5 5 10 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\Search&Sort\\CommonElement.cpp","group":"local","local":true}
