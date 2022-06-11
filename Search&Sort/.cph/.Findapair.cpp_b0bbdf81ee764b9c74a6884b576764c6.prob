@@ -1,0 +1,1 @@
+{"name":"Local: Findapair","url":"k:\\375\\Search&Sort\\Findapair.cpp","tests":[{"id":1654973274691,"input":"6\n5 20 3 2 50 80\n10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\Search&Sort\\Findapair.cpp","group":"local","local":true}
