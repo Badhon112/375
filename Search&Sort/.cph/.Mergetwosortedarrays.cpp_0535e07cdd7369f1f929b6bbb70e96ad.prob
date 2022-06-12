@@ -1,0 +1,1 @@
+{"name":"Local: Mergetwosortedarrays","url":"k:\\375\\Search&Sort\\Mergetwosortedarrays.cpp","tests":[{"id":1655022920217,"input":"5 5 \n1 2 3 4 5\n6 5 4 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\Search&Sort\\Mergetwosortedarrays.cpp","group":"local","local":true}

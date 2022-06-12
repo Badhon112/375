@@ -1,0 +1,1 @@
+{"name":"Local: CountInversions","url":"k:\\375\\Search&Sort\\CountInversions.cpp","tests":[{"id":1655024707490,"input":"5\n2 4 1 3 5","output":""},{"id":1655024916790,"input":"5\n2 3 4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\375\\Search&Sort\\CountInversions.cpp","group":"local","local":true}
