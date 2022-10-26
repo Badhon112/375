@@ -1,9 +1,9 @@
 #include<bits/stdc++.h>
 #define int long long
 using namespace std;
+int N,X;
 void  SolvingProblem(){
-    int N,X=0;
-    cin>>N;
+    cin>>N;X=0;
     while (N%2==0)
     {
         X++;
@@ -13,17 +13,17 @@ void  SolvingProblem(){
         X--;
         N=N*2;
     }
-    for(int I=0;I*I<=N;++I){
-        int Y=N-I*I,Z=sqrt(Y);
+    for(int i=0;i*i<=N;i++){
+        int Y=N-i*i,Z=sqrt(Y);
         if(Z*Z==Y){
-            cout<<(Z<<(X/2))<<" "<<(I<<(X/2))<<endl;
+            cout<<(Z<<(X/2))<<" "<<(i<<(X/2))<<endl;
             return;
         }
     }
     
     puts("-1"); 
 }
-int main(){
+signed main(){
     int tesk;
     cin>>tesk;
     while (tesk--)
